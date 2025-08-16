@@ -16,7 +16,9 @@ export default function Home() {
             <div className="sec-text">
                <div>by<span className="test">Test</span></div>
             </div>
+            <div className="line"></div>
             <div className="date">⏰ Posted on August 24, 2013 at 9:00 PM</div>
+            <div className="line"></div>
              <div className="box">900 x 300</div>
              <div className="para">
                <div className="p">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus
@@ -26,7 +28,9 @@ export default function Home() {
                <div className="p1">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis convallis tempus.</div>
                <div className="p1">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis convallis tempus.</div>
                <div className="p1">Lorem ipsum dolor sit amet consectetur adipiscing elit quisque faucibus ex sapien vitae pellentesque sem placerat in id cursus mi pretium tellus duis convallis tempus.</div>
+               <div className="line2"></div>
                <div className="copyright">Copyright © Your Website 2014</div>
+               <div className="line2"></div>
              </div>
           </div>
           <div className="box-2">
@@ -70,5 +74,6 @@ export default function Home() {
     </>
   );
 }
+
 
        
